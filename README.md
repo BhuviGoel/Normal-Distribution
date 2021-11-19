@@ -1,1 +1,2 @@
-# Normal-Distribution
+# Normal Distribution
+Class 109
